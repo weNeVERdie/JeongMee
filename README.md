@@ -1,1 +1,1 @@
-# Simple react native app
+# Simple react native app + naver API (python) (temperal file)
